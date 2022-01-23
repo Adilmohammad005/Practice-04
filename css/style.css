@@ -1,0 +1,96 @@
+.header{
+	min-height: 50px;
+	background: red;
+}
+header{
+	background-color: yellowgreen;
+}
+main{
+	background-color: maroon;
+}
+
+h1{
+	background-color: green;
+	margin: 50px 250px 50px;
+	padding: 20PX;
+	color: yellow;
+	border: 5px;
+	font-size: 50px;
+}
+h2{
+	font-weight: 20px;
+	font-size: 30px;
+	color: blue;
+}
+.pa{
+	margin: 20px;
+	padding: 15px;
+	color: blue;
+	font-size: 30px
+
+}
+.container{
+	overflow: hidden;
+
+}
+.p1{
+	min-height: 100px;
+	background: blanchedalmond;
+	width: 60%;
+	float: left;
+
+}
+.p2{
+    min-height: 100px;
+	background: green;
+	width: 40%;
+	float: right;
+
+}
+.w{
+	height: 150px;
+	width: 33.33%;
+	float: left;
+
+}
+.p3{
+	background: darkblue;
+}
+.p4{
+	background: darkcyan;
+
+}
+.p5{
+	background: darkorange;
+
+}
+.footer{
+	height: 100px;
+	background: gainsboro;
+}
+
+p{
+	background-color: maroon;
+	color: blanchedalmond;
+	font-size: 25px;
+}
+
+aside{
+	color: white;
+	font-size: 35px;
+}
+article{
+	margin: 50px;
+	font-size: 30px;
+	color: yellow;
+}
+footer{
+	height: 100px;
+	background-color: blue;
+	color: greenyellow;
+	font-size: 25px;
+}
+.bake{
+	height: 200px;
+	width: 300px;
+}
